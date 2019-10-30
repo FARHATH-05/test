@@ -1,0 +1,12 @@
+
+<!-- saved from url=(0058)file:///C:/Users/FARHATH/Documents/Assassin's%20Creed.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Welcome</title>
+</head>
+<body bgcolor="Gold">
+<h1 align="Center"><b><pre>ASSASSIN'S CREED IS A LEGENDARY GAME...</pre></b></h1>
+<marquee height="4%" hspace="10" vspace="13" bgcolor="#eee8aa" text="#b22222"> 
+<h3><pre>There are a lot of fun games too... like NFS, Call of Duty, Rodrash, PUBG, Asphalt 9 : Legends etc...</pre></h3>
+</marquee>
+
+</body></html>
